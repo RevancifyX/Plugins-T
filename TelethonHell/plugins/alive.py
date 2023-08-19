@@ -12,7 +12,7 @@ from TelethonHell.plugins import *
 
 ALIVE_TEMP = """
 <b><i>🔥 UserBot is Online 🔥</i></b>
-<b><i>↼ Owner ⇀</i></b> : 『 {hell_mention} 』
+<b><i>↼ Owner ⇀</i></b> : <i><b>{hell_mention}</b></i>
 ╭──────────────
 ┣─ <b>» Telethon:</b> <i>{telethon_version}</i>
 ┣─ <b>» Hêllẞø†:</b> <i>{hellbot_version}</i>
@@ -20,7 +20,7 @@ ALIVE_TEMP = """
 ┣─ <b>» Uptime:</b> <i>{uptime}</i>
 ┣─ <b>» Ping:</b> <i>{ping}</i>
 ╰──────────────
-<b><i>»»» <a href='https://t.me/its_hellbot'>[†hê Hêllẞø†]</a> «««</i></b>
+<b><i>»»» <a href='https://t.me/hellonet1'><i><b>[Rohan]</b></i></a> «««</i></b>
 """
 
 msg = """{}\n
