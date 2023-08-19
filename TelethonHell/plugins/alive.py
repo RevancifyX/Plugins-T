@@ -12,24 +12,25 @@ from TelethonHell.plugins import *
 
 ALIVE_TEMP = """
 <b><i>🔥 UserBot is Online 🔥</i></b>
-<b><i>↼ Owner ⇀</i></b> : <i><b>{hell_mention}</b></i>
+
+<b><i>⚡ Owner --></i></b>  <i><b>{hell_mention}</b></i>
 ╭──────────────
-┣─ <b>» Telethon:</b> <i>{telethon_version}</i>
-┣─ <b>» Hêllẞø†:</b> <i>{hellbot_version}</i>
-┣─ <b>» Sudo:</b> <i>{is_sudo}</i>
-┣─ <b>» Uptime:</b> <i>{uptime}</i>
-┣─ <b>» Ping:</b> <i>{ping}</i>
+┣─ <b><i>» Don't Spam
+┣─ <b><i>» Direct to topic
+┣─ <b><i>» Sudo:</i></b> <i>{is_sudo}</i>
+┣─ <b><i>» Ping:</i></b> <i>{ping}</i>
 ╰──────────────
-<b><i>»»» <a href='https://t.me/hellonet1'><i><b>[Rohan]</b></i></a> «««</i></b>
+<b><i>»»»»»»»» <a href='https://t.me/hellonet1'><i><b>[Rohan]</b></i></a> ««««««««
+</i></b>
 """
 
 msg = """{}\n
-<b><i>🏅 𝙱𝚘𝚝 𝚂𝚝𝚊𝚝𝚞𝚜 🏅</b></i>
-<b>Telethon ≈</b>  <i>{}</i>
-<b>Hêllẞø† ≈</b>  <i>{}</i>
-<b>Uptime ≈</b>  <i>{}</i>
-<b>Abuse ≈</b>  <i>{}</i>
-<b>Sudo ≈</b>  <i>{}</i>
+<b><i>🏅 Bot Status 🏅</b></i>
+<b>Telethon -</b>  <i>{}</i>
+<b>Hêllẞø† -</b>  <i>{}</i>
+<b>Uptime -</b>  <i>{}</i>
+<b>Abuse -</b>  <i>{}</i>
+<b>Sudo -</b>  <i>{}</i>
 """
 # -------------------------------------------------------------------------------
 
