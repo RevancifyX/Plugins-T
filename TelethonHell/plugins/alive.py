@@ -14,9 +14,10 @@ ALIVE_TEMP = """
 <b><i>🔥 UserBot is Online 🔥</i></b>
 
 <b><i>⚡ Owner --></i></b>  <i><b>{hell_mention}</b></i>
+
 ╭──────────────
-┣─ <b><i>» Don't Spam
-┣─ <b><i>» Direct to topic
+┣─ <b><i>» Don't Spam</i></b>
+┣─ <b><i>» Direct to topic</i></b>
 ┣─ <b><i>» Sudo:</i></b> <i>{is_sudo}</i>
 ┣─ <b><i>» Ping:</i></b> <i>{ping}</i>
 ╰──────────────
