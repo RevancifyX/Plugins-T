@@ -21,6 +21,7 @@ ALIVE_TEMP = """
 ┣─ <b><i>» Sudo:</i></b> <i>{is_sudo}</i>
 ┣─ <b><i>» Ping:</i></b> <i>{ping}</i>
 ╰──────────────
+
 <b><i>»»»»»»»» <a href='https://t.me/hellonet1'><i><b>[Rohan]</b></i></a> ««««««««
 </i></b>
 """
@@ -67,7 +68,7 @@ async def _(event):
                 pic_list.append(c)
         PIC = random.choice(pic_list)
     else:
-        PIC = "https://te.legra.ph/file/ea9e11f7c9db21c1b8d5e.mp4"
+        PIC = "https://te.legra.ph/file/832b0f84ad166f53f2b1f.mp4"
     end = datetime.datetime.now()
     ping = (end - start).microseconds / 1000
     alive = alive_temp.format(
